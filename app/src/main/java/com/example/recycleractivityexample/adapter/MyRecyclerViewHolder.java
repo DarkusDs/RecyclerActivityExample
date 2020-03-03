@@ -20,4 +20,4 @@ class MyRecyclerViewHolder extends RecyclerView.ViewHolder {
         cardImg = itemView.findViewById(R.id.card_image);
     }
 }
-
+//////////////
